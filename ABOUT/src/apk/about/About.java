@@ -109,6 +109,7 @@ public class About extends Activity {
         
         
         //ごまかし後の項目
+        //これはコミットされていましう？
         height_after = intent.getStringExtra("height");
         weight_after = intent.getStringExtra("weight");
         rent_after = intent.getStringExtra("rent");
